@@ -49,4 +49,4 @@ module flat_gear(tooth_number, tooth_diameter=30, center_hole_diameter=5)
 	}
 }
 
-flat_gear(8);
+flat_gear(40, 2, 2.5);
